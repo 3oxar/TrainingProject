@@ -37,8 +37,8 @@ public class MovmentPlayer : MonoBehaviour
     {
         _playerInput.Disable();
     }
-
-    private void Update()
+   
+    private void FixedUpdate()
     {
         if (_moveInput != Vector2.zero)
         {
