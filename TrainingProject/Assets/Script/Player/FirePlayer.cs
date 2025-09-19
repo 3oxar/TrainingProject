@@ -12,7 +12,6 @@ public class FirePlayer : MonoBehaviour
     private float _fire;
     private float _firekReloadTime;
 
-
     private void Awake()
     {
         _playerInput = new PlayerInput();
@@ -31,8 +30,6 @@ public class FirePlayer : MonoBehaviour
         _playerInput.Disable();
     }
 
-
-    // Update is called once per frame
     void Update()
     {
         if(_fire > 0 && _firekReloadTime == 0)

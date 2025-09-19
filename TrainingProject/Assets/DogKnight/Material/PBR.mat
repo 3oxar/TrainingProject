@@ -21,21 +21,20 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PBR
-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: bea28a0456bf7c0429ba679dd1074618, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords:
+  m_ValidKeywords: []
+  m_InvalidKeywords:
   - _EMISSION
   - _METALLICSPECGLOSSMAP
   - _NORMALMAP
   - _OCCLUSIONMAP
-  m_InvalidKeywords: []
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
-  stringTagMap:
-    RenderType: Opaque
+  stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
   m_LockedProperties: 
@@ -82,6 +81,34 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_196c7af723ad42acaaa6c9f5b998c5aa_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: fe860d9813d9fba43a6db2f1dc9d2044, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3f529d0dfb6e49ca970238a87c9e3979_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: fe860d9813d9fba43a6db2f1dc9d2044, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_9950823d6db349b2b28ff083f935076d_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: ab3e8c0e82b3db8429abc130ac9e62d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_a175d9f8b03b40ffbc8f33caae6b9932_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 3c94236cfdd0fcc4b8fd91e7d12dabec, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_b939ff5b44fa4be6b0d95694e569b5db_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 3c94236cfdd0fcc4b8fd91e7d12dabec, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_c4245ae158644692886a237db2f32894_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: ab3e8c0e82b3db8429abc130ac9e62d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d92109ff77694270bc2e57fce4fd4331_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: f4da30a223a78034fbc3c563d2a924a7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -123,6 +150,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _SampleGI: 0
