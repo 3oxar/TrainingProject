@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class FirePlayer : MonoBehaviour
 {
+    [HideInInspector] public float Fire { get => _fire; }
+
     [SerializeField] private GameObject _spawnBuller;
     [SerializeField] private GameObject _prefabBuller;
 
@@ -11,6 +13,7 @@ public class FirePlayer : MonoBehaviour
 
     private float _fire;
     private float _firekReloadTime;
+
 
     private void Awake()
     {

@@ -3,6 +3,8 @@ using UnityEngine;
 
 public class MovmentPlayer : MonoBehaviour
 {
+    [HideInInspector] public Vector2 MoveInput { get => _moveInput; }
+    
     [SerializeField] private float _moveSpeed;
     [SerializeField] private float _rotateSpeed;
     [SerializeField] private float _jerkForse;

@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "G:\\Skillbox\\Unity\\TrainingProject\\TrainingProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29AAA052-B399-E870-EEF0-364EDC96DCA6}|Assembly-CSharp.csproj|g:\\skillbox\\unity\\trainingproject\\trainingproject\\assets\\script\\player\\animationplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AAA052-B399-E870-EEF0-364EDC96DCA6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\animationplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AAA052-B399-E870-EEF0-364EDC96DCA6}|Assembly-CSharp.csproj|g:\\skillbox\\unity\\trainingproject\\trainingproject\\assets\\script\\player\\movmentplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AAA052-B399-E870-EEF0-364EDC96DCA6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\movmentplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29AAA052-B399-E870-EEF0-364EDC96DCA6}|Assembly-CSharp.csproj|g:\\skillbox\\unity\\trainingproject\\trainingproject\\assets\\script\\pickup\\frozenpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29AAA052-B399-E870-EEF0-364EDC96DCA6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pickup\\frozenpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AAA052-B399-E870-EEF0-364EDC96DCA6}|Assembly-CSharp.csproj|g:\\skillbox\\unity\\trainingproject\\trainingproject\\assets\\script\\player\\fireplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AAA052-B399-E870-EEF0-364EDC96DCA6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\fireplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29AAA052-B399-E870-EEF0-364EDC96DCA6}|Assembly-CSharp.csproj|G:\\Skillbox\\Unity\\TrainingProject\\TrainingProject\\assets\\script\\player\\destroyplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AnimationPlayer.cs",
+              "DocumentMoniker": "G:\\Skillbox\\Unity\\TrainingProject\\TrainingProject\\Assets\\Script\\Player\\AnimationPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\AnimationPlayer.cs",
+              "ToolTip": "G:\\Skillbox\\Unity\\TrainingProject\\TrainingProject\\Assets\\Script\\Player\\AnimationPlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\AnimationPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:14:49.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirePlayer.cs",
+              "DocumentMoniker": "G:\\Skillbox\\Unity\\TrainingProject\\TrainingProject\\Assets\\Script\\Player\\FirePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\FirePlayer.cs",
+              "ToolTip": "G:\\Skillbox\\Unity\\TrainingProject\\TrainingProject\\Assets\\Script\\Player\\FirePlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\FirePlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:14:46.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovmentPlayer.cs",
+              "DocumentMoniker": "G:\\Skillbox\\Unity\\TrainingProject\\TrainingProject\\Assets\\Script\\Player\\MovmentPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\MovmentPlayer.cs",
+              "ToolTip": "G:\\Skillbox\\Unity\\TrainingProject\\TrainingProject\\Assets\\Script\\Player\\MovmentPlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\MovmentPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:14:10.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FrozenPickUp.cs",
               "DocumentMoniker": "G:\\Skillbox\\Unity\\TrainingProject\\TrainingProject\\Assets\\Script\\PickUp\\FrozenPickUp.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PickUp\\FrozenPickUp.cs",
@@ -35,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "DestroyPlayer.cs",
               "DocumentMoniker": "G:\\Skillbox\\Unity\\TrainingProject\\TrainingProject\\Assets\\Script\\Player\\DestroyPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Player\\DestroyPlayer.cs",
@@ -43,8 +94,7 @@
               "RelativeToolTip": "Assets\\Script\\Player\\DestroyPlayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T09:08:07.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-19T09:08:07.805Z"
             }
           ]
         }
